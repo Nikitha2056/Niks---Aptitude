@@ -1,0 +1,107 @@
+# Aptitude Day 5 - Time and Work
+
+Definition
+
+If a person completes a work in N days,
+
+One Day's Work = 1/N
+
+----------------------------------
+
+Formula
+
+One Day's Work = 1/Days
+
+Together Work = (1/A) + (1/B)
+
+Total Days = 1 / Together Work
+
+----------------------------------
+
+Example 1
+
+A completes a work in 20 days.
+
+One Day's Work = 1/20
+
+----------------------------------
+
+Example 2
+
+A = 10 days
+
+B = 15 days
+
+Together Work
+
+= 1/10 + 1/15
+
+= 3/30 + 2/30
+
+= 5/30
+
+= 1/6
+
+Total Days = 6
+
+----------------------------------
+
+Example 3
+
+A = 8 days
+
+B = 8 days
+
+1/8 + 1/8
+
+= 2/8
+
+= 1/4
+
+Total Days = 4
+
+----------------------------------
+
+Example 4
+
+A = 6 days
+
+B = 3 days
+
+1/6 + 1/3
+
+= 1/6 + 2/6
+
+= 3/6
+
+= 1/2
+
+Total Days = 2
+
+----------------------------------
+
+Example 5
+
+A = 12 days
+
+B = 4 days
+
+1/12 + 1/4
+
+= 1/12 + 3/12
+
+= 4/12
+
+= 1/3
+
+Total Days = 3
+
+----------------------------------
+
+Shortcut
+
+One Day's Work = 1/Days
+
+Together = Add the one day's work
+
+Total Days = 1 ÷ Together Work
