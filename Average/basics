@@ -1,0 +1,273 @@
+# 🚀 Aptitude Day 10 – Average
+
+> 📌 Difficulty : Easy
+>
+> 🎯 Category : Aptitude
+>
+> ⭐ Interview Importance : High
+>
+> ⏳ Revision Time : 10 Minutes
+>
+> 🔥 XP : 200
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📝 Problem Statement
+
+Average is the value obtained by dividing the sum of all observations by the total number of observations.
+
+---
+
+# 💡 Formula
+
+```text
+Average = Sum of Observations / Number of Observations
+```
+
+---
+
+# 🧠 Intuition
+
+To find the average:
+
+1. Add all the numbers.
+2. Count how many numbers are present.
+3. Divide the sum by the count.
+
+---
+
+# 📚 Important Formulas
+
+```text
+Average = Sum / Number
+
+━━━━━━━━━━━━━━
+
+Sum = Average × Number
+
+━━━━━━━━━━━━━━
+
+Number = Sum / Average
+```
+
+---
+
+# 🎯 Example 1
+
+Input
+
+10, 20, 30, 40, 50
+
+Solution
+
+```text
+Sum = 150
+
+Count = 5
+
+Average = 150 / 5
+
+= 30
+```
+
+---
+
+# 🎯 Example 2
+
+Input
+
+15, 25, 35, 45
+
+Solution
+
+```text
+Sum = 120
+
+Count = 4
+
+Average = 120 / 4
+
+= 30
+```
+
+---
+
+# ⚡ Shortcut
+
+If numbers are equally spaced,
+
+Example
+
+10 20 30 40 50
+
+Average
+
+↓
+
+Middle Number
+
+↓
+
+30
+
+Example
+
+12 18 24 30 36
+
+Average
+
+↓
+
+Middle Number
+
+↓
+
+24
+
+---
+
+# 🔍 Dry Run
+
+Question
+
+20, 30, 40, 50, 60
+
+Step 1
+
+Sum
+
+20+30+40+50+60
+
+=
+
+200
+
+Step 2
+
+Count
+
+=
+
+5
+
+Step 3
+
+Average
+
+200/5
+
+=
+
+40
+
+---
+
+# 💻 Solved Practice Questions
+
+### Q1
+
+20,30,40,50,60
+
+Answer
+
+40
+
+━━━━━━━━━━━━━━
+
+### Q2
+
+12,18,24,30,36
+
+Answer
+
+24
+
+━━━━━━━━━━━━━━
+
+### Q3
+
+5,15,25,35,45
+
+Answer
+
+25
+
+---
+
+# ⚡ Complexity
+
+Time Complexity : O(n)
+
+Space Complexity : O(1)
+
+---
+
+# ❌ Common Mistakes
+
+🔴 Forgetting to count total numbers
+
+🔴 Dividing by wrong count
+
+🔴 Adding numbers incorrectly
+
+---
+
+# 🧠 Memory Trick
+
+Add
+
+↓
+
+Count
+
+↓
+
+Divide
+
+↓
+
+Average
+
+---
+
+# 🎯 Practice Questions
+
+1. Average of 8, 16, 24, 32, 40
+
+2. Average of 7, 14, 21, 28
+
+3. Average of 50, 60, 70, 80, 90
+
+---
+
+# 🌟 Interview Corner
+
+Frequently Asked In
+
+✅ TCS
+
+✅ Infosys
+
+✅ Accenture
+
+✅ Capgemini
+
+✅ Cognizant
+
+---
+
+# 📈 Confidence Meter
+
+⭐⭐⭐⭐⭐
+
+---
+
+# 🏆 Status
+
+✅ Average Completed
+
+🔥 XP Earned : 200
+
+📅 Day 20
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
