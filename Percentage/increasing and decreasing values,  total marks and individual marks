@@ -1,0 +1,437 @@
+# 🚀 Aptitude Day 21 – Percentage
+
+> 📌 Difficulty : Easy–Medium
+>
+> 🎯 Category : Aptitude
+>
+> ⭐ Interview Importance : ⭐⭐⭐⭐⭐
+>
+> ⏳ Revision Time : 15 Minutes
+>
+> 🔥 XP : 200
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📝 Problem Statement
+
+Percentage is a way of expressing a number as a fraction of 100.
+
+It is one of the most frequently asked topics in placement aptitude tests.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 💡 Formula 1 – Find Percentage
+
+Percentage = (Obtained Marks × 100) / Total Marks
+
+### Example
+
+Marks = 450
+
+Total = 500
+
+Percentage
+
+= (450 × 100) / 500
+
+= 90%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 💡 Formula 2 – Find Marks
+
+Marks = (Percentage × Total Marks) / 100
+
+### Example
+
+Find 80% of 600
+
+Marks
+
+= (80 × 600) / 100
+
+= 480
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 💡 Formula 3 – Find Total Marks
+
+Total Marks = (Obtained Marks × 100) / Percentage
+
+### Example
+
+A student scored 450 marks which is 90%.
+
+Total Marks
+
+= (450 × 100) / 90
+
+= 500
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🧠 Memory Trick
+
+```text
+Percentage
+
+↓
+
+(Marks ×100)
+
+÷
+
+Total Marks
+
+━━━━━━━━━━━━━━
+
+Marks
+
+↓
+
+(Percentage × Total)
+
+÷
+
+100
+
+━━━━━━━━━━━━━━
+
+Total Marks
+
+↓
+
+(Marks ×100)
+
+÷
+
+Percentage
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ⚡ Important Shortcuts
+
+```text
+50% = Divide by 2
+
+25% = Divide by 4
+
+20% = Divide by 5
+
+10% = Divide by 10
+
+5%  = Half of 10%
+
+1%  = Divide by 100
+```
+
+Example
+
+25% of 800
+
+= 800 ÷ 4
+
+= 200
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📚 Increase and Decrease
+
+## Increase by Percentage
+
+Formula
+
+New Value = Original Value + Percentage of Original
+
+Example
+
+Increase ₹800 by 25%
+
+25% of 800 = 200
+
+New Value
+
+800 + 200
+
+= 1000
+
+━━━━━━━━━━━━━━
+
+## Decrease by Percentage
+
+Formula
+
+New Value = Original Value − Percentage of Original
+
+Example
+
+Decrease ₹1200 by 20%
+
+20% of 1200 = 240
+
+New Value
+
+1200 − 240
+
+= 960
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🔍 Dry Run
+
+### Question 1
+
+A student scored 360 out of 450.
+
+Percentage
+
+= (360 ×100) / 450
+
+= 80%
+
+━━━━━━━━━━━━━━
+
+### Question 2
+
+35% of 800
+
+= (35 ×800) /100
+
+= 280
+
+━━━━━━━━━━━━━━
+
+### Question 3
+
+420 marks is 84%.
+
+Total Marks
+
+= (420 ×100) /84
+
+= 500
+
+━━━━━━━━━━━━━━
+
+### Question 4
+
+Increase ₹800 by 25%
+
+25% of 800 = 200
+
+800 + 200
+
+= 1000
+
+━━━━━━━━━━━━━━
+
+### Question 5
+
+Decrease ₹1200 by 20%
+
+20% of 1200 = 240
+
+1200 − 240
+
+= 960
+
+━━━━━━━━━━━━━━
+
+### Question 6
+
+540 out of 600
+
+Percentage
+
+= (540 ×100) /600
+
+= 90%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 💻 Solved Practice Questions
+
+### Q1
+
+360 out of 450
+
+Answer
+
+80%
+
+━━━━━━━━━━━━━━
+
+### Q2
+
+35% of 800
+
+Answer
+
+280
+
+━━━━━━━━━━━━━━
+
+### Q3
+
+420 is 84% of Total
+
+Answer
+
+500
+
+━━━━━━━━━━━━━━
+
+### Q4
+
+Increase ₹800 by 25%
+
+Answer
+
+1000
+
+━━━━━━━━━━━━━━
+
+### Q5
+
+Decrease ₹1200 by 20%
+
+Answer
+
+960
+
+━━━━━━━━━━━━━━
+
+### Q6
+
+540 out of 600
+
+Answer
+
+90%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ⚡ Complexity
+
+Time Complexity : O(1)
+
+Space Complexity : O(1)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ❌ Common Mistakes
+
+🔴 Forgetting to multiply by 100 while finding percentage.
+
+🔴 Adding instead of subtracting in decrease questions.
+
+🔴 Subtracting instead of adding in increase questions.
+
+🔴 Using wrong formula for total marks.
+
+🔴 Calculation mistakes in division.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🧠 Quick Revision
+
+```text
+Percentage
+
+↓
+
+(Marks ×100)
+
+÷
+
+Total
+
+━━━━━━━━━━━━━━
+
+Marks
+
+↓
+
+(% × Total)
+
+÷100
+
+━━━━━━━━━━━━━━
+
+Total
+
+↓
+
+(Marks ×100)
+
+÷%
+
+━━━━━━━━━━━━━━
+
+Increase
+
+↓
+
+Original + Percentage
+
+━━━━━━━━━━━━━━
+
+Decrease
+
+↓
+
+Original − Percentage
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🎯 Practice Questions
+
+1. Find 45% of 600.
+
+2. A student scored 630 out of 700. Find the percentage.
+
+3. Increase ₹1500 by 20%.
+
+4. Decrease ₹2500 by 12%.
+
+5. A student scored 540 marks which is 90% of the total. Find the total marks.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🌟 Interview Corner
+
+Frequently Asked In
+
+✅ TCS
+
+✅ Infosys
+
+✅ Accenture
+
+✅ Cognizant
+
+✅ Capgemini
+
+✅ Wipro
+
+✅ Tech Mahindra
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📈 Confidence Meter
+
+⭐⭐⭐⭐⭐
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🏆 Status
+
+✅ Percentage Completed
+
+🔥 XP Earned : 200
+
+📅 Day 21
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
