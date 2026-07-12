@@ -1,0 +1,527 @@
+# 🚀 Aptitude Day 22 – Profit & Loss
+
+> 📌 Difficulty : Easy–Medium
+>
+> 🎯 Category : Aptitude
+>
+> ⭐ Interview Importance : ⭐⭐⭐⭐⭐
+>
+> ⏳ Revision Time : 20 Minutes
+>
+> 🔥 XP : 200
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📝 Problem Statement
+
+Profit and Loss is one of the most frequently asked topics in placement aptitude tests.
+
+It helps determine whether a seller earns a profit or incurs a loss after selling a product.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 💡 Important Definitions
+
+## 📌 Cost Price (CP)
+
+The price at which an item is purchased.
+
+Example
+
+You bought a laptop for ₹40,000.
+
+CP = ₹40,000
+
+━━━━━━━━━━━━━━
+
+## 📌 Selling Price (SP)
+
+The price at which the item is sold.
+
+Example
+
+You sold the laptop for ₹48,000.
+
+SP = ₹48,000
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 💰 Profit
+
+A profit occurs when
+
+```text
+SP > CP
+```
+
+Formula
+
+```text
+Profit = SP − CP
+```
+
+### Example
+
+CP = ₹500
+
+SP = ₹650
+
+Profit
+
+= 650 − 500
+
+= ₹150
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📉 Loss
+
+A loss occurs when
+
+```text
+CP > SP
+```
+
+Formula
+
+```text
+Loss = CP − SP
+```
+
+### Example
+
+CP = ₹1200
+
+SP = ₹1000
+
+Loss
+
+= 1200 − 1000
+
+= ₹200
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📊 Profit Percentage
+
+Formula
+
+```text
+Profit % = (Profit × 100) ÷ CP
+```
+
+### Example
+
+CP = ₹800
+
+SP = ₹1000
+
+Profit
+
+= 1000 − 800
+
+= ₹200
+
+Profit %
+
+= (200 × 100) ÷ 800
+
+= 25%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📊 Loss Percentage
+
+Formula
+
+```text
+Loss % = (Loss × 100) ÷ CP
+```
+
+### Example
+
+CP = ₹2000
+
+SP = ₹1800
+
+Loss
+
+= 2000 − 1800
+
+= ₹200
+
+Loss %
+
+= (200 × 100) ÷ 2000
+
+= 10%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🧠 Memory Trick
+
+```text
+SP > CP
+
+↓
+
+Profit
+
+━━━━━━━━━━━━━━
+
+CP > SP
+
+↓
+
+Loss
+
+━━━━━━━━━━━━━━
+
+Profit %
+
+↓
+
+(Profit ×100)
+
+÷ CP
+
+━━━━━━━━━━━━━━
+
+Loss %
+
+↓
+
+(Loss ×100)
+
+÷ CP
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🔍 Dry Run
+
+## Example 1
+
+CP = ₹500
+
+SP = ₹650
+
+Profit
+
+= 650 − 500
+
+= ₹150
+
+━━━━━━━━━━━━━━
+
+## Example 2
+
+CP = ₹1200
+
+SP = ₹1000
+
+Loss
+
+= 1200 − 1000
+
+= ₹200
+
+━━━━━━━━━━━━━━
+
+## Example 3
+
+CP = ₹800
+
+SP = ₹1000
+
+Profit
+
+= ₹200
+
+Profit %
+
+= (200 ×100) ÷800
+
+= 25%
+
+━━━━━━━━━━━━━━
+
+## Example 4
+
+CP = ₹2000
+
+SP = ₹1800
+
+Loss
+
+= ₹200
+
+Loss %
+
+= (200 ×100) ÷2000
+
+= 10%
+
+━━━━━━━━━━━━━━
+
+## Example 5
+
+CP = ₹40,000
+
+SP = ₹48,000
+
+Profit
+
+= ₹8,000
+
+Profit %
+
+= (8000 ×100) ÷40000
+
+= 20%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 💻 Solved Practice Questions
+
+### Q1
+
+A book was bought for ₹500 and sold for ₹650.
+
+Answer
+
+Profit = ₹150
+
+━━━━━━━━━━━━━━
+
+### Q2
+
+A bag was bought for ₹1200 and sold for ₹1000.
+
+Answer
+
+Loss = ₹200
+
+━━━━━━━━━━━━━━
+
+### Q3
+
+A watch was bought for ₹800 and sold for ₹1000.
+
+Answer
+
+Profit = ₹200
+
+Profit % = 25%
+
+━━━━━━━━━━━━━━
+
+### Q4
+
+A bicycle was bought for ₹2000 and sold for ₹1800.
+
+Answer
+
+Loss = ₹200
+
+Loss % = 10%
+
+━━━━━━━━━━━━━━
+
+### Q5
+
+A laptop was bought for ₹40,000 and sold for ₹48,000.
+
+Answer
+
+Profit = ₹8,000
+
+Profit % = 20%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ⚡ Shortcuts
+
+```text
+Profit
+
+↓
+
+SP − CP
+
+━━━━━━━━━━━━━━
+
+Loss
+
+↓
+
+CP − SP
+
+━━━━━━━━━━━━━━
+
+Profit %
+
+↓
+
+Profit ÷ CP ×100
+
+━━━━━━━━━━━━━━
+
+Loss %
+
+↓
+
+Loss ÷ CP ×100
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ❌ Common Mistakes
+
+🔴 Using Selling Price (SP) instead of Cost Price (CP) while calculating percentage.
+
+🔴 Forgetting whether the question asks for Profit or Profit %.
+
+🔴 Adding instead of subtracting.
+
+🔴 Confusing Profit with Loss.
+
+🔴 Calculation mistakes while dividing.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🎯 Interview Tips
+
+### Step 1
+
+Identify whether
+
+```text
+SP > CP
+
+or
+
+CP > SP
+```
+
+### Step 2
+
+Find Profit or Loss.
+
+### Step 3
+
+If percentage is asked,
+
+Always divide by **Cost Price (CP)**.
+
+Never divide by Selling Price.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🧠 Quick Revision
+
+```text
+Cost Price (CP)
+
+↓
+
+Buying Price
+
+━━━━━━━━━━━━━━
+
+Selling Price (SP)
+
+↓
+
+Selling Price
+
+━━━━━━━━━━━━━━
+
+SP > CP
+
+↓
+
+Profit
+
+━━━━━━━━━━━━━━
+
+CP > SP
+
+↓
+
+Loss
+
+━━━━━━━━━━━━━━
+
+Profit %
+
+↓
+
+(Profit ×100)
+
+÷ CP
+
+━━━━━━━━━━━━━━
+
+Loss %
+
+↓
+
+(Loss ×100)
+
+÷ CP
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🎯 Practice Questions
+
+1. A pen is bought for ₹40 and sold for ₹50. Find the Profit.
+
+2. A TV is bought for ₹25,000 and sold for ₹22,500. Find the Loss.
+
+3. A chair is bought for ₹800 and sold for ₹1000. Find the Profit %.
+
+4. A mobile is bought for ₹15,000 and sold for ₹13,500. Find the Loss %.
+
+5. A computer is bought for ₹60,000 and sold for ₹72,000. Find the Profit and Profit %.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🌟 Interview Corner
+
+Frequently Asked In
+
+✅ TCS
+
+✅ Infosys
+
+✅ Accenture
+
+✅ Cognizant
+
+✅ Capgemini
+
+✅ Wipro
+
+✅ Tech Mahindra
+
+✅ Deloitte
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📈 Confidence Meter
+
+⭐⭐⭐⭐⭐
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🏆 Status
+
+✅ Profit & Loss Completed
+
+🔥 XP Earned : 200
+
+📅 Day 22
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
