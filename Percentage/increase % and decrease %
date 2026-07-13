@@ -1,0 +1,526 @@
+# 🚀 Aptitude Day 24 – Percentages
+
+> 📌 Difficulty: Easy → Medium
+>
+> 🎯 Category: Aptitude
+>
+> ⭐ Interview Importance: ⭐⭐⭐⭐⭐
+>
+> ⏳ Revision Time: 20 Minutes
+>
+> 🔥 XP: 200
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📝 Introduction
+
+Percentage means **"per hundred"** or **"out of 100."**
+
+It is represented using the symbol **%**.
+
+Example
+
+```text
+50%
+
+↓
+
+50 out of 100
+
+↓
+
+50/100
+
+↓
+
+0.5
+```
+
+Percentages are one of the most important aptitude topics because they are used in:
+
+- Profit & Loss
+- Simple Interest
+- Compound Interest
+- Ratio & Proportion
+- Data Interpretation
+- Discounts
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📘 Formula 1 – Find Percentage
+
+When the value and total are given.
+
+```text
+Percentage
+
+=
+
+(Value ÷ Total)
+
+×100
+```
+
+### Example
+
+40 students passed out of 50.
+
+```text
+Percentage
+
+=(40÷50)
+
+×100
+
+=80%
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📘 Formula 2 – Find Value
+
+When the percentage is given.
+
+```text
+Value
+
+=(Percentage × Total)
+
+÷100
+```
+
+### Example
+
+Find 30% of 500.
+
+```text
+=(30×500)
+
+÷100
+
+=150
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📘 Formula 3 – Percentage Increase
+
+```text
+Increase %
+
+=
+
+(Increase ÷ Original Value)
+
+×100
+```
+
+Where
+
+```text
+Increase
+
+=
+
+New Value − Original Value
+```
+
+### Example
+
+Salary increases from ₹20,000 to ₹25,000.
+
+Increase
+
+```text
+25000−20000
+
+=5000
+```
+
+Percentage Increase
+
+```text
+=(5000÷20000)
+
+×100
+
+=25%
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📘 Formula 4 – Percentage Decrease
+
+```text
+Decrease %
+
+=
+
+(Decrease ÷ Original Value)
+
+×100
+```
+
+Where
+
+```text
+Decrease
+
+=
+
+Original Value − New Value
+```
+
+### Example
+
+Mobile price decreases from ₹40,000 to ₹30,000.
+
+Decrease
+
+```text
+40000−30000
+
+=10000
+```
+
+Percentage
+
+```text
+=(10000÷40000)
+
+×100
+
+=25%
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🧠 Memory Tricks
+
+```text
+Find Percentage
+
+↓
+
+(Value ÷ Total)
+
+×100
+
+━━━━━━━━━━━━━━
+
+Find Value
+
+↓
+
+(% × Total)
+
+÷100
+
+━━━━━━━━━━━━━━
+
+Increase %
+
+↓
+
+(New − Old)
+
+÷ Old
+
+×100
+
+━━━━━━━━━━━━━━
+
+Decrease %
+
+↓
+
+(Old − New)
+
+÷ Old
+
+×100
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🔍 Solved Examples
+
+## Example 1
+
+Find 25% of 800.
+
+```text
+=(25×800)
+
+÷100
+
+=200
+```
+
+Answer
+
+```text
+200
+```
+
+━━━━━━━━━━━━━━
+
+## Example 2
+
+40 students passed out of 50.
+
+```text
+=(40÷50)
+
+×100
+
+=80%
+```
+
+━━━━━━━━━━━━━━
+
+## Example 3
+
+Salary increased from ₹20,000 to ₹25,000.
+
+Increase
+
+```text
+25000−20000
+
+=5000
+```
+
+Percentage Increase
+
+```text
+=(5000÷20000)
+
+×100
+
+=25%
+```
+
+━━━━━━━━━━━━━━
+
+## Example 4
+
+Price decreased from ₹40,000 to ₹30,000.
+
+Decrease
+
+```text
+40000−30000
+
+=10000
+```
+
+Percentage Decrease
+
+```text
+=(10000÷40000)
+
+×100
+
+=25%
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 💻 Practice Questions
+
+### Q1
+
+Find **40% of 900**.
+
+━━━━━━━━━━━━━━
+
+### Q2
+
+45 students passed out of 60.
+
+Find the pass percentage.
+
+━━━━━━━━━━━━━━
+
+### Q3
+
+Salary increased from ₹30,000 to ₹36,000.
+
+Find the percentage increase.
+
+━━━━━━━━━━━━━━
+
+### Q4
+
+The price of a TV decreased from ₹50,000 to ₹40,000.
+
+Find the percentage decrease.
+
+━━━━━━━━━━━━━━
+
+### ⭐ Interview Question
+
+A student scored **420 marks out of 500**.
+
+Find the percentage.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ❌ Common Mistakes
+
+### Wrong
+
+Using the **New Value** instead of the **Increase**.
+
+Example
+
+```text
+20000 → 25000
+
+Wrong
+
+25000÷20000×100
+```
+
+Correct
+
+```text
+Increase
+
+=25000−20000
+
+=5000
+
+↓
+
+5000÷20000×100
+
+=25%
+```
+
+━━━━━━━━━━━━━━
+
+### Wrong
+
+Using the **New Price** instead of the **Decrease**.
+
+Correct
+
+```text
+Decrease
+
+=Old−New
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🎯 Interview Tips
+
+Always identify these four values first.
+
+```text
+Original Value
+
+↓
+
+New Value
+
+↓
+
+Increase / Decrease
+
+↓
+
+Apply Formula
+```
+
+This avoids most percentage mistakes in placement exams.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📚 Quick Revision
+
+```text
+Find Percentage
+
+↓
+
+(Value ÷ Total)
+
+×100
+
+━━━━━━━━━━━━━━
+
+Find Value
+
+↓
+
+(% × Total)
+
+÷100
+
+━━━━━━━━━━━━━━
+
+Increase %
+
+↓
+
+(New−Old)
+
+÷Old
+
+×100
+
+━━━━━━━━━━━━━━
+
+Decrease %
+
+↓
+
+(Old−New)
+
+÷Old
+
+×100
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🏆 Day 24 Status
+
+```text
+✅ Percentage Completed
+
+🔥 XP Earned : 200
+
+📅 Aptitude Day 24 Completed
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📈 Confidence Meter
+
+⭐⭐⭐⭐⭐
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🎯 Frequently Asked In
+
+✅ TCS
+
+✅ Infosys
+
+✅ Accenture
+
+✅ Cognizant
+
+✅ Capgemini
+
+✅ Wipro
+
+✅ Deloitte
+
+✅ Tech Mahindra
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
